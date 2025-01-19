@@ -1,6 +1,6 @@
 # Compiler and flags
 CXX = g++
-CXXFLAGS = -std=c++17 -O3 -Wall -Wextra -pedantic
+CXXFLAGS = -std=c++14 -O3 -Wall -Wextra -pedantic
 
 # Source files
 SRCS = main.cpp utils.cpp matrix_operations.cpp
